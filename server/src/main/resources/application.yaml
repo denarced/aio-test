@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo
+server:
+  tomcat:
+    threads:
+      max: 2000
